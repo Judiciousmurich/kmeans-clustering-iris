@@ -8,7 +8,7 @@ This project applies K-Means clustering on the Iris dataset to identify patterns
 - `notebooks/kmeans_iris.ipynb`: Jupyter Notebook for the clustering workflow.
 - `src/kmeans_clustering.py`: Python script for clustering.
 
-  ## Steps to Run
+ ## Steps to Run
 Load the Dataset
 The dataset is loaded from data/iris.csv. You can replace this path with the location of your own Iris dataset if necessary.
 
